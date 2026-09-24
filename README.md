@@ -52,8 +52,3 @@
 - [Diabetes ML Project](https://github.com/farhanarumpa10/Diabetes_ML_Project-main) — diabetes prediction pipeline using Random Forest & Gradient Boosting
 - [People Flow](https://github.com/farhanarumpa10/People-FLow) — YOLOv8 + ByteTrack object tracking for IN/OUT people counting and heatmap visualization
 
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
