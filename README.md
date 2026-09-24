@@ -37,8 +37,20 @@
 
 ### 📌 Featured Projects
 
-- 🌐 **[Project Name]** — short description of your web project (HTML/CSS/JS)
-- 🤖 **[Project Name]** — short description of your ML project
+**🌐 Web**
+- [Spice Garden](https://github.com/farhanarumpa10/Spice-Garden) — a spice-themed website built with HTML & CSS ([live demo](https://spaice-garden.netlify.app/))
+- [Normal Web](https://github.com/farhanarumpa10/Normal_Web) — a multi-page website (home, about, contact, posts) built with HTML, CSS & JS
+
+**💻 C**
+- [Problem Solve with C](https://github.com/farhanarumpa10/Problem-Solve-with-C) — Codeforces contest problems solved in C
+
+**🐍 Python**
+- [Python Basic](https://github.com/farhanarumpa10/Python_Basic) — core Python practice, including OOP concepts
+
+**🤖 Machine Learning**
+- [Titanic Dataset — EDA & ML](https://github.com/farhanarumpa10/Titanic-Dataset-train-with-ML) — full EDA plus 8 classifiers compared; best model (Random Forest) hit 83.2% accuracy
+- [Diabetes ML Project](https://github.com/farhanarumpa10/Diabetes_ML_Project-main) — diabetes prediction pipeline using Random Forest & Gradient Boosting
+- [People Flow](https://github.com/farhanarumpa10/People-FLow) — YOLOv8 + ByteTrack object tracking for IN/OUT people counting and heatmap visualization
 
 ### 🔗 Connect with Me
 
