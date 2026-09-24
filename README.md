@@ -15,7 +15,7 @@
 - 🤖 I'm exploring **Machine Learning**
 - 💻 Strong in **Python** and **C**
 - 🌱 Currently learning and improving my skills across web dev and ML
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **farhanarumpa10@gmail.com**
 
 ### 🛠️ Languages & Tools
 
